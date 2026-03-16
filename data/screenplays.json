@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Ikiru",
+    "writers": ["Shinobu Hashimoto", "Akira Kurosawa", "Hideo Oguni"],
+    "year": 1952,
+    "genre": ["Drama"],
+    "runtime": 143,
+    "page_count": 64,
+    "rt_score": 98,
+    "source_type": "Original"
+  },
+  {
+    "title": "Thelma & Louise",
+    "writers": ["Callie Khouri"],
+    "year": 1991,
+    "genre": ["Drama", "Road Film"],
+    "runtime": 130,
+    "page_count": 137,
+    "rt_score": 83,
+    "source_type": "Original"
+  },
+  {
+    "title": "Boogie Nights",
+    "writers": ["Paul Thomas Anderson"],
+    "year": 1997,
+    "genre": ["Comedy-Drama"],
+    "runtime": 155,
+    "page_count": 153,
+    "rt_score": 94,
+    "source_type": "Original"
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "writers": ["Stanley Kubrick"],
+    "year": 1999,
+    "genre": ["Drama", "Thriller"],
+    "runtime": 159,
+    "page_count": 164,
+    "rt_score": 76,
+    "source_type": "Adapted"
+  },
+  {
+    "title": "Moonlight",
+    "writers": ["Barry Jenkins"],
+    "year": 2016,
+    "genre": ["Drama"],
+    "runtime": 111,
+    "page_count": 99,
+    "rt_score": 98,
+    "source_type": "Adapted"
+  },
+  {
+    "title": "Get Out",
+    "writers": ["Jordan Peele"],
+    "year": 2017,
+    "genre": ["Horror", "Thriller"],
+    "runtime": 104,
+    "page_count": 100,
+    "rt_score": 98,
+    "source_type": "Original"
+  },
+  {
+    "title": "Parasite",
+    "writers": ["Bong Joon-ho", "Han Jin-won"],
+    "year": 2019,
+    "genre": ["Thriller", "Black Comedy"],
+    "runtime": 132,
+    "page_count": 144,
+    "rt_score": 99,
+    "source_type": "Original"
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "writers": ["Céline Sciamma"],
+    "year": 2019,
+    "genre": ["Historical Romance"],
+    "runtime": 122,
+    "page_count": 76,
+    "rt_score": 97,
+    "source_type": "Original"
+  },
+  {
+    "title": "Aftersun",
+    "writers": ["Charlotte Wells"],
+    "year": 2022,
+    "genre": ["Drama"],
+    "runtime": 102,
+    "page_count": 102,
+    "rt_score": 96,
+    "source_type": "Original"
+  },
+  {
+    "title": "Sentimental Value",
+    "writers": ["Joachim Trier", "Eskil Vogt"],
+    "year": 2025,
+    "genre": ["Drama"],
+    "runtime": 133,
+    "page_count": 138,
+    "rt_score": 96,
+    "source_type": "Original"
+  },
+  {
+    "title": "Sinners",
+    "writers": ["Ryan Coogler"],
+    "year": 2025,
+    "genre": ["Horror", "Drama"],
+    "runtime": 137,
+    "page_count": 127,
+    "rt_score": 99,
+    "source_type": "Original"
+  }
+]

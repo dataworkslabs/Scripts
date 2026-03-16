@@ -1,0 +1,15 @@
+film,page_count,scene_count,scene_density,inciting_incident_page,act1_climax_page,midpoint_page,act2_climax_page,climax_page,resolution_page,notes,source_file
+Aftersun,102,139,1.36274509803922,10,40,74,90,90,100,Midpoint/climax/resolution are interpretive because the film is structurally soft.,AfterSun.pdf
+Boogie Nights,153,,,9,55,85,138,140,151,Scene count NA: OCR unreliable. Beat pages approximate due to scan/OCR.,Boogie Nights.pdf
+Get Out,104,117,1.17,9,50,68,84,95,104,Clean screenplay structure; pages are relatively firm.,Get Out.pdf
+Moonlight,111,100,1.01010101010101,6,30,60,89,98,111,Triptych structure makes midpoint/climax more thematic than conventional.,Moonlight.pdf
+Parasite,144,158,1.09722222222222,11,49,80,130,130,140,Midpoint is bunker discovery/genre flip.,Parasite.pdf
+Portrait of a Lady on Fire,76,,,10,31,49,60,60,76,Scene count NA: OCR unreliable. Beat pages approximate.,Poalof_script.pdf
+Sentimental Value,138,194,1.40579710144927,30,75,104,120,120,138,Recent script; softer final act and archival turn.,Sentimental Value.pdf
+Eyes Wide Shut,164,113,0.689024390243902,53,72,88,148,149,162,"Inciting incident is Alice confession, not the opening party.",eyes-wide-shut-1999.pdf
+Ikiru,64,,,8,32,43,,55,63,Scene count NA: source formatting does not support reliable heading count.,Ikiru.pdf
+Thelma & Louise,137,279,2.03649635036496,20,31,66,110,128,137,"Scene count uses script breakdown page, not regex count.",Thelma and Louise.pdf
+Sinners,127,100,0.78740157480315,14,35,63,103,103,125,Beats are best estimates from screenplay.,sinners-2025.pdf
+Amsterdam,144,,,6,16,86,120,143,144,Midpoint is the softest call of the three; sprawling conspiracy structure. Act 1 break = Elizabeth Meekins murder. Act 2 break = gala/Committee exposure.,amsterdam.pdf
+Don't Worry Darling,96,,,8,33,50,83,92,96,Act 1 break = Oasis/HQ breach. Midpoint = fuller awakening in the real room. Act 2 break = Alice ties up Jack and confronts the truth.,dont worry darling.pdf
+The Mummy,125,,,46,58,60,114,118,125,Late inciting incident because the main supernatural engine locks in after the tomb/Chosen-Blood reveal. Act 1 break = commit to going down after Forster dies.,the-mummy-2017.pdf
